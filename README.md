@@ -23,4 +23,13 @@
 
 ### Scripts with functions:
 + bashFunc/download_with_redirection.sh
-+ 
+
+
+
+---
++ [edit](https://github.com/bash-tool/www/edit/main/README.md)
++ [git project](https://github.com/bash-tool/)
+
+```
+https://github.com/bash-tool/www.git
+```
