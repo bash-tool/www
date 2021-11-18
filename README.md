@@ -2,24 +2,24 @@
 www.bashtool.com
 
 
-marketplace for:
-- ready to use bash scripts for domains, api providers, ...
+## marketplace
++ ready to use bash scripts for domains, api providers, ...
++ Ready to Buy or Sponsorship
+
+## Offer
 
 
-Ready to Buy or Sponsorship
-
-
-APPs
+### APPs with GUI
 + DomaGer - Domain Manager
 + ProMaGen
 + APiTerminal
 + 
 
-APIs
+### APIs with CRUD controll
 + apiBash/plesk
 + apibash/whmcs
 + apiBash/cloudflare
 
-Scripts:
+### Scripts with functions:
 + bashFunc/download_with_redirection.sh
 + 
